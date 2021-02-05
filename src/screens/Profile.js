@@ -9,10 +9,10 @@ class Profile extends Component {
 
     state = {
         isPasswordShown: false,
-        name: 'Huzaifa Nadir',
-        email: 'huzaifa@gmail.com',
-        contactNo: '03122282334',
-        password: '12345678',
+        name: '',
+        email: '',
+        contactNo: '',
+        password: '',
         address: '',
         loggedInUser: {},
         authUser: {},
