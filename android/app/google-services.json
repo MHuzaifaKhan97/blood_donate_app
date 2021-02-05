@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "49833826202",
+    "firebase_url": "https://blood-bank-app-4578e-default-rtdb.firebaseio.com",
+    "project_id": "blood-bank-app-4578e",
+    "storage_bucket": "blood-bank-app-4578e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49833826202:android:ee4796fefd3f80a2788c23",
+        "android_client_info": {
+          "package_name": "com.blood_donate_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49833826202-0s8la1a429jm70j6dmbbeuucuk1e6rov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBflufBZ5CBMYDEX7p-l4QM4muaLk-Blbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49833826202-0s8la1a429jm70j6dmbbeuucuk1e6rov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
