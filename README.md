@@ -1,4 +1,4 @@
-# Donate 
+# Donate (A Blood Collection App)
 
 ## Technologies
 ### - React Native
